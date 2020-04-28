@@ -1,4 +1,4 @@
-#  Chinu Tier 1 prework project
+#  Chinu Tier 1 Prework Project
 ## BrandynCO.github.io
 
 ## Description
