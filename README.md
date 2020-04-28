@@ -1,5 +1,5 @@
 #  Chinu Tier 1 Prework Project
-## BrandynCO.github.io
+## [BrandynCO.github.io](https://brandynco.github.io)
 
 ## Description
 This project was based on the [Tier 1 Website Template](https://github.com/chingu-voyages/soloproject-tier1-website-template). The goal of the project was to clone the website. Within this code, I was able to mostly reproduce the desired clone. 
